@@ -1,0 +1,2 @@
+#root{align-items:flex-start;height:100vh;justify-content:center}#root,.main{display:flex}.main{align-items:center;background-color:#a9fee9;border:10px dashed #16ceac;flex-direction:column;font-size:large;gap:10px;height:30vh;padding:10px;text-align:center;width:40vw}button{background-color:blue;border-radius:50px;color:#fff;font-weight:700;width:20%}button:hover{background-color:#4b41e0;-webkit-transform:scale(1.3);transform:scale(1.3)}
+/*# sourceMappingURL=main.58aeaf88.css.map*/
